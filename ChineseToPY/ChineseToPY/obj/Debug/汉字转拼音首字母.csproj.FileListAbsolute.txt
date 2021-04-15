@@ -1,6 +1,0 @@
-C:\Users\Lenovo\source\repos\汉字转拼音首字母\汉字转拼音首字母\bin\Debug\汉字转拼音首字母.dll
-C:\Users\Lenovo\source\repos\汉字转拼音首字母\汉字转拼音首字母\bin\Debug\汉字转拼音首字母.pdb
-C:\Users\Lenovo\source\repos\汉字转拼音首字母\汉字转拼音首字母\obj\Debug\汉字转拼音首字母.csprojAssemblyReference.cache
-C:\Users\Lenovo\source\repos\汉字转拼音首字母\汉字转拼音首字母\obj\Debug\汉字转拼音首字母.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\source\repos\汉字转拼音首字母\汉字转拼音首字母\obj\Debug\汉字转拼音首字母.dll
-C:\Users\Lenovo\source\repos\汉字转拼音首字母\汉字转拼音首字母\obj\Debug\汉字转拼音首字母.pdb
