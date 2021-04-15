@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\ImageToBase64\ImageToBase64\bin\Debug\ImageToBase64.dll
+C:\Users\Lenovo\source\repos\ImageToBase64\ImageToBase64\bin\Debug\ImageToBase64.pdb
+C:\Users\Lenovo\source\repos\ImageToBase64\ImageToBase64\obj\Debug\ImageToBase64.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ImageToBase64\ImageToBase64\obj\Debug\ImageToBase64.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ImageToBase64\ImageToBase64\obj\Debug\ImageToBase64.dll
+C:\Users\Lenovo\source\repos\ImageToBase64\ImageToBase64\obj\Debug\ImageToBase64.pdb

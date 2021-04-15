@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\汉字转拼音首字母\汉字转拼音首字母\bin\Debug\ChineseToPY.dll
+C:\Users\Lenovo\source\repos\汉字转拼音首字母\汉字转拼音首字母\bin\Debug\ChineseToPY.pdb
+C:\Users\Lenovo\source\repos\汉字转拼音首字母\汉字转拼音首字母\obj\Debug\ChineseToPY.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\汉字转拼音首字母\汉字转拼音首字母\obj\Debug\ChineseToPY.dll
+C:\Users\Lenovo\source\repos\汉字转拼音首字母\汉字转拼音首字母\obj\Debug\ChineseToPY.pdb

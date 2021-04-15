@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\ExcelColConvert\ExcelColConvert\bin\Debug\ExcelColConvert.dll
+C:\Users\Lenovo\source\repos\ExcelColConvert\ExcelColConvert\bin\Debug\ExcelColConvert.pdb
+C:\Users\Lenovo\source\repos\ExcelColConvert\ExcelColConvert\obj\Debug\ExcelColConvert.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ExcelColConvert\ExcelColConvert\obj\Debug\ExcelColConvert.dll
+C:\Users\Lenovo\source\repos\ExcelColConvert\ExcelColConvert\obj\Debug\ExcelColConvert.pdb
